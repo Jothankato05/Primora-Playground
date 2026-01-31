@@ -2,8 +2,8 @@ flask
 flask-cors
 requests
 matplotlib
-
-# If you use these modules, uncomment them:
-# primora_interpreter
-# primora_parser
-# primora_nl
+mkdocs
+mkdocs-material
+mkdocstrings
+build
+twine
