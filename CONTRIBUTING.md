@@ -1,6 +1,6 @@
 # Contributing to Primora
 
-🎉 **Thank you for your interest in contributing to Primora!** 🎉
+**Thank you for your interest in contributing to Primora!**
 
 We love your input! We want to make contributing to Primora as easy and transparent as possible, whether it's:
 
@@ -10,11 +10,11 @@ We love your input! We want to make contributing to Primora as easy and transpar
 - Proposing new features
 - Becoming a maintainer
 
-## 📋 Code of Conduct
+## Code of Conduct
 
 By participating in this project, you agree to maintain a respectful and inclusive environment for everyone.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Fork the Repository
 Click the "Fork" button at the top right of the repository page.
@@ -42,7 +42,7 @@ python primora_interpreter.py
 git checkout -b feature/your-feature-name
 ```
 
-## 💻 Development Workflow
+## Development Workflow
 
 ### Running Tests
 ```bash
@@ -83,7 +83,7 @@ python -m http.server 8000
 # Open http://localhost:8000 in your browser
 ```
 
-## 📝 Making Changes
+## Making Changes
 
 ### Good Pull Request Guidelines
 
@@ -118,7 +118,7 @@ fix(interpreter): Handle edge case in variable assignment
 docs(readme): Update installation instructions
 ```
 
-## 🐛 Reporting Bugs
+## Reporting Bugs
 
 ### Before Submitting a Bug Report
 - Check the [issue tracker](https://github.com/Jothankato05/Primora-Playground/issues) for existing reports
@@ -136,7 +136,7 @@ Use the issue template and include:
 6. **Code Sample** - Minimal code that reproduces the issue
 7. **Screenshots** - If applicable
 
-## 💡 Suggesting Features
+## Suggesting Features
 
 We love new ideas! Before suggesting a feature:
 
@@ -159,28 +159,28 @@ Real-world scenarios where this would be useful
 Other approaches you've thought about
 ```
 
-## 🎯 Areas to Contribute
+## Areas to Contribute
 
 ### High Priority
-- 🐛 Bug fixes
-- 📖 Documentation improvements
-- ✨ Standard library functions
-- 🧪 Test coverage
-- 🌐 Internationalization
+- Bug fixes
+- Documentation improvements
+- Standard library functions
+- Test coverage
+- Internationalization
 
 ### Medium Priority
-- 🎨 UI/UX improvements
-- ⚡ Performance optimizations
-- 🔧 Developer tools
-- 📦 Package management
+- UI/UX improvements
+- Performance optimizations
+- Developer tools
+- Package management
 
 ### Advanced
-- 🏗️ Compiler optimizations
-- 🤖 AI model integration
-- 🔌 IDE extensions
-- 🚀 JIT compilation
+- Compiler optimizations
+- AI model integration
+- IDE extensions
+- JIT compilation
 
-## 📚 Documentation
+## Documentation
 
 Documentation is just as important as code! We need help with:
 
@@ -190,14 +190,14 @@ Documentation is just as important as code! We need help with:
 - **Examples** - Real-world use cases
 - **Videos** - Video tutorials and demos
 
-## 🏆 Recognition
+## Recognition
 
 Contributors will be:
 - Listed in the CONTRIBUTORS.md file
 - Mentioned in release notes
 - Featured on the website (for significant contributions)
 
-## 🤝 Pull Request Process
+## Pull Request Process
 
 1. **Update documentation** - Reflect any changes in the relevant docs
 2. **Update tests** - Ensure all tests pass
@@ -217,13 +217,13 @@ Contributors will be:
 - [ ] No linting errors
 - [ ] CHANGELOG updated
 
-## 🔒 Security
+## Security
 
 Found a security vulnerability? **Do NOT open a public issue.**
 
 Instead, email security@primora-lang.org (or create a private security advisory on GitHub).
 
-## 📞 Getting Help
+## Getting Help
 
 Need help contributing?
 
@@ -231,10 +231,10 @@ Need help contributing?
 - **Discussions** - Ask on GitHub Discussions
 - **Email** - Reach out to the maintainers
 
-## 📜 License
+## License
 
 By contributing, you agree that your contributions will be licensed under the MIT License.
 
 ---
 
-Thank you for making Primora better! 🚀
+Thank you for making Primora better!

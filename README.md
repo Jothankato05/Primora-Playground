@@ -8,26 +8,26 @@
 [![CodeQL](https://github.com/Jothankato05/primora-playground/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jothankato05/primora-playground/actions/workflows/codeql-analysis.yml)
 
 <div align="center">
-  <h2>🚀 Code as Command. Syntax as Strategy. Execution as Power.</h2>
+  <h2>Code as Command. Syntax as Strategy. Execution as Power.</h2>
   <p><strong>An AI-native programming language for predictive and manipulative programming</strong></p>
   
-  [🎮 Try Online](https://primora-playground.netlify.app) | [📖 Documentation](https://primora-docs.windsurf.build) | [💬 Community](#community) | [🎯 Roadmap](#roadmap)
+  [Try Online](https://primora-playground.netlify.app) | [Documentation](https://primora-docs.windsurf.build) | [Community](#community) | [Roadmap](#roadmap)
 </div>
 
 ---
 
-## ✨ What is Primora?
+## What is Primora?
 
 **Primora** is a revolutionary, security-first programming language designed for the next generation of developers. It seamlessly integrates:
 
-- 🤖 **AI-Native Constructs** - Built-in AI operations for prediction, manipulation, and analysis
-- 🛡️ **Security-First Design** - Automatic source sanitization and code review
-- 🧠 **Psychological Scripting** - Behavioral influence and persuasion mechanics
-- 🔄 **Python Transpilation** - Easy integration with existing Python ecosystems
-- 💡 **Natural Language Interface** - Write code in plain English
-- 🎯 **Domain-Specific Extensions** - Perfect for ethical hacking, AI development, and strategic systems
+- **AI-Native Constructs** - Built-in AI operations for prediction, manipulation, and analysis
+- **Security-First Design** - Automatic source sanitization and code review
+- **Psychological Scripting** - Behavioral influence and persuasion mechanics
+- **Python Transpilation** - Easy integration with existing Python ecosystems
+- **Natural Language Interface** - Write code in plain English
+- **Domain-Specific Extensions** - Perfect for ethical hacking, AI development, and strategic systems
 
-## 🎯 Key Features
+## Key Features
 
 ### AI-Powered Programming
 ```primora
@@ -62,7 +62,7 @@ news "artificial intelligence"
 # Built-in Firebase integration
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
@@ -105,7 +105,7 @@ primora-backend
 primora-lsp
 ```
 
-## 📚 Examples
+## Examples
 
 ### 1. Threat Detection System
 ```primora
@@ -114,9 +114,9 @@ predict threat of traffic using ai.model("intrusion_detector")
 
 if threat.is("malicious") {
     manipulate attacker using tactic("decoy", tone="aggressive")
-    echo "🛡️ Threat neutralized" using frame("confident")
+    echo "Threat neutralized" using frame("confident")
 } else {
-    echo "✅ Network secure" using frame("calm")
+    echo "Network secure" using frame("calm")
 }
 ```
 
@@ -136,7 +136,7 @@ if user_response.is("positive") {
 }
 ```
 
-## 🏗️ Architecture
+## Architecture
 
 Primora consists of several core components:
 
@@ -149,16 +149,16 @@ Primora consists of several core components:
 - **Backend API** (`primora_backend.py`) - Web service for playground
 - **Natural Language** (`primora_nl.py`) - NL to code conversion
 
-## 🎮 Interactive Playground
+## Interactive Playground
 
 Visit our [online playground](https://primora-playground.netlify.app) to:
-- ✍️ Write and run Primora code instantly
-- 🤝 Collaborate in real-time with others
-- 🤖 Get AI-powered code suggestions
-- 📖 Access built-in documentation
-- 🔗 Share your programs with unique URLs
+- Write and run Primora code instantly
+- Collaborate in real-time with others
+- Get AI-powered code suggestions
+- Access built-in documentation
+- Share your programs with unique URLs
 
-## 🛠️ Use Cases
+## Use Cases
 
 ### Security Research
 - Intrusion detection systems
@@ -184,7 +184,7 @@ Visit our [online playground](https://primora-playground.netlify.app) to:
 - Report generation
 - API integration
 
-## 🌍 Community
+## Community
 
 Join our growing community:
 
@@ -193,30 +193,30 @@ Join our growing community:
 - **GitHub Discussions** - Ask questions and share ideas
 - **YouTube** - Tutorial videos and live coding sessions
 
-## 🗺️ Roadmap
+## Roadmap
 
 ### v0.1.0 (Current)
-- ✅ Core language implementation
-- ✅ Interactive REPL
-- ✅ Web playground
-- ✅ Basic AI integration
-- ✅ Python transpilation
+- Core language implementation
+- Interactive REPL
+- Web playground
+- Basic AI integration
+- Python transpilation
 
 ### v0.2.0 (Next)
-- 🔄 Enhanced standard library
-- 🔄 VS Code extension
-- 🔄 Improved error messages
-- 🔄 Debugging capabilities
-- 🔄 Package manager
+- Enhanced standard library
+- VS Code extension
+- Improved error messages
+- Debugging capabilities
+- Package manager
 
 ### v1.0.0 (Future)
-- 📅 Self-hosted compilation
-- 📅 JIT compiler
-- 📅 Advanced AI models
-- 📅 Plugin system
-- 📅 Enterprise features
+- Self-hosted compilation
+- JIT compiler
+- Advanced AI models
+- Plugin system
+- Enterprise features
 
-## 💖 Contributing
+## Contributing
 
 We welcome contributions! Here's how you can help:
 
@@ -247,18 +247,18 @@ pytest
 pylint primora_*.py
 ```
 
-## 📝 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Python Software Foundation
 - Flask and Flask-CORS teams
 - HuggingFace for AI model APIs
 - The open-source community
 
-## 🔗 Links
+## Links
 
 - **Website**: [primora-lang.org](https://primora-playground.netlify.app)
 - **Documentation**: [primora-docs.windsurf.build](https://primora-docs.windsurf.build)
@@ -268,6 +268,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 <div align="center">
-  <p><strong>Built with ❤️ by the Primora Team</strong></p>
+  <p><strong>Built with love by the Primora Team</strong></p>
   <p>Code as Command. Syntax as Strategy. Execution as Power.</p>
 </div>
